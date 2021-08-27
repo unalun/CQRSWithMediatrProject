@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Thor.Entities/1.0.0": {
+        "dependencies": {
+          "Thor.Core": "1.0.0"
+        },
+        "runtime": {
+          "Thor.Entities.dll": {}
+        }
+      },
+      "Thor.Core/1.0.0": {
+        "runtime": {
+          "Thor.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Thor.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Thor.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

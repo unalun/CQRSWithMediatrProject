@@ -1,0 +1,9 @@
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.DataAccess\bin\Debug\netcoreapp3.1\Thor.DataAccess.deps.json
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.DataAccess\bin\Debug\netcoreapp3.1\Thor.DataAccess.dll
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.DataAccess\bin\Debug\netcoreapp3.1\Thor.DataAccess.pdb
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.DataAccess\obj\Debug\netcoreapp3.1\Thor.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.DataAccess\obj\Debug\netcoreapp3.1\Thor.DataAccess.AssemblyInfoInputs.cache
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.DataAccess\obj\Debug\netcoreapp3.1\Thor.DataAccess.AssemblyInfo.cs
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.DataAccess\obj\Debug\netcoreapp3.1\Thor.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.DataAccess\obj\Debug\netcoreapp3.1\Thor.DataAccess.dll
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.DataAccess\obj\Debug\netcoreapp3.1\Thor.DataAccess.pdb

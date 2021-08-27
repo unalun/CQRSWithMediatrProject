@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r8Lx9ldRa1p5qgY1NBRM4wUQdgv4q7FRZ9d6I8qdP1NFY72JWiiRjJLee9dEs7+u7tpF9KvMX1PzUij7y4fZlg==",
+  "success": true,
+  "projectFilePath": "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Web.Api\\Thor.Web.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UnalUN2\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\UnalUN2\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\UnalUN2\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

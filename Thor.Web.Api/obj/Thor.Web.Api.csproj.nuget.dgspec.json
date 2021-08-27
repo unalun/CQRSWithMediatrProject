@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Web.Api\\Thor.Web.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Business\\Thor.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Business\\Thor.Business.csproj",
+        "projectName": "Thor.Business",
+        "projectPath": "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Business\\Thor.Business.csproj",
+        "packagesPath": "C:\\Users\\UnalUN2\\.nuget\\packages\\",
+        "outputPath": "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\UnalUN2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Entities\\Thor.Entities.csproj": {
+                "projectPath": "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Entities\\Thor.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Core\\Thor.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Core\\Thor.Core.csproj",
+        "projectName": "Thor.Core",
+        "projectPath": "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Core\\Thor.Core.csproj",
+        "packagesPath": "C:\\Users\\UnalUN2\\.nuget\\packages\\",
+        "outputPath": "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\UnalUN2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Entities\\Thor.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Entities\\Thor.Entities.csproj",
+        "projectName": "Thor.Entities",
+        "projectPath": "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Entities\\Thor.Entities.csproj",
+        "packagesPath": "C:\\Users\\UnalUN2\\.nuget\\packages\\",
+        "outputPath": "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\UnalUN2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Core\\Thor.Core.csproj": {
+                "projectPath": "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Core\\Thor.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Web.Api\\Thor.Web.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Web.Api\\Thor.Web.Api.csproj",
+        "projectName": "Thor.Web.Api",
+        "projectPath": "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Web.Api\\Thor.Web.Api.csproj",
+        "packagesPath": "C:\\Users\\UnalUN2\\.nuget\\packages\\",
+        "outputPath": "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Web.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\UnalUN2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Business\\Thor.Business.csproj": {
+                "projectPath": "D:\\Projeler\\NetCore5\\CQRSWithMediatrProject\\Thor.Business\\Thor.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Business\bin\Debug\netcoreapp3.1\Thor.Business.deps.json
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Business\bin\Debug\netcoreapp3.1\Thor.Business.dll
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Business\bin\Debug\netcoreapp3.1\Thor.Business.pdb
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Business\bin\Debug\netcoreapp3.1\Thor.Core.dll
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Business\bin\Debug\netcoreapp3.1\Thor.Entities.dll
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Business\bin\Debug\netcoreapp3.1\Thor.Entities.pdb
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Business\bin\Debug\netcoreapp3.1\Thor.Core.pdb
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Business\obj\Debug\netcoreapp3.1\Thor.Business.csprojAssemblyReference.cache
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Business\obj\Debug\netcoreapp3.1\Thor.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Business\obj\Debug\netcoreapp3.1\Thor.Business.AssemblyInfoInputs.cache
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Business\obj\Debug\netcoreapp3.1\Thor.Business.AssemblyInfo.cs
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Business\obj\Debug\netcoreapp3.1\Thor.Business.csproj.CoreCompileInputs.cache
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Business\obj\Debug\netcoreapp3.1\Thor.Business.csproj.CopyComplete
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Business\obj\Debug\netcoreapp3.1\Thor.Business.dll
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Business\obj\Debug\netcoreapp3.1\Thor.Business.pdb

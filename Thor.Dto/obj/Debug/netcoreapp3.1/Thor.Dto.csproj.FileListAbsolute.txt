@@ -1,0 +1,9 @@
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Dto\bin\Debug\netcoreapp3.1\Thor.Dto.deps.json
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Dto\bin\Debug\netcoreapp3.1\Thor.Dto.dll
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Dto\bin\Debug\netcoreapp3.1\Thor.Dto.pdb
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Dto\obj\Debug\netcoreapp3.1\Thor.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Dto\obj\Debug\netcoreapp3.1\Thor.Dto.AssemblyInfoInputs.cache
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Dto\obj\Debug\netcoreapp3.1\Thor.Dto.AssemblyInfo.cs
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Dto\obj\Debug\netcoreapp3.1\Thor.Dto.csproj.CoreCompileInputs.cache
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Dto\obj\Debug\netcoreapp3.1\Thor.Dto.dll
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Dto\obj\Debug\netcoreapp3.1\Thor.Dto.pdb

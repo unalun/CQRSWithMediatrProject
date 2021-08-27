@@ -1,0 +1,10 @@
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Core\bin\Debug\netcoreapp3.1\Thor.Core.deps.json
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Core\bin\Debug\netcoreapp3.1\Thor.Core.dll
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Core\bin\Debug\netcoreapp3.1\Thor.Core.pdb
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Core\obj\Debug\netcoreapp3.1\Thor.Core.csprojAssemblyReference.cache
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Core\obj\Debug\netcoreapp3.1\Thor.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Core\obj\Debug\netcoreapp3.1\Thor.Core.AssemblyInfoInputs.cache
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Core\obj\Debug\netcoreapp3.1\Thor.Core.AssemblyInfo.cs
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Core\obj\Debug\netcoreapp3.1\Thor.Core.csproj.CoreCompileInputs.cache
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Core\obj\Debug\netcoreapp3.1\Thor.Core.dll
+D:\Projeler\NetCore5\CQRSWithMediatrProject\Thor.Core\obj\Debug\netcoreapp3.1\Thor.Core.pdb
